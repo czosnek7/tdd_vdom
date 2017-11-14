@@ -1,0 +1,21 @@
+{
+  "name": "tdd_vdom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.test.js"
+  },
+  "devDependencies": {
+    "hyperx": "2.3.0",
+    "jsdom": "11.1.0",
+    "jsdom-global": "3.0.2",
+    "tape": "4.8.0"
+  },
+  "keywords": [
+    "virtual",
+    "dom"
+  ],
+  "author": "Bartłomiej Potaczek",
+  "license": "ISC"
+}
